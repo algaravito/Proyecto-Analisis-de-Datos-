@@ -69,7 +69,7 @@ Análisis de una base de datos de un servicio de libros que incluye información
 - Generación de insights para decisiones de negocio  
 
 **Herramientas:** SQL  
-📁 Carpeta: `sql-book-service-analysis`
+📁 Carpeta: ` Proyecto SQL – Análisis de Servicio de Libros`
 
 ---
 
