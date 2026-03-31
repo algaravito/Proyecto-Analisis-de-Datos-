@@ -50,7 +50,7 @@ Proyecto de análisis de datos enfocado en identificar los factores que influyen
 -Identificación de grupos con mayor riesgo de cancelación
 
 **Herramientas:** Python, Pandas, Matplotlib, Seaborn  
-📁 Carpeta: `video-game-sales-analysis`
+📁 Carpeta: `Análisis de Cancelación de Clientes (Churn) – Model Fitness`
 
 ---
 
