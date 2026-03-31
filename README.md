@@ -36,16 +36,18 @@ Los proyectos se enfocan en análisis exploratorio (EDA), generación de insight
 
 ## 📂 Proyectos
 
-### 🔹 Análisis de Ventas de Videojuegos
+### 🔹 Análisis de Cancelación de Clientes (Churn) – Model Fitness
 
 **Descripción:**  
-Análisis de datos históricos de ventas de videojuegos, incluyendo reseñas de usuarios y críticos, géneros, plataformas y clasificaciones ESRB, con el objetivo de identificar patrones de éxito comercial.
+Proyecto de análisis de datos enfocado en identificar los factores que influyen en la cancelación de clientes en un gimnasio. Se realiza análisis exploratorio (EDA), modelado predictivo y segmentación de usuarios para generar estrategias de retención basadas en datos.
 
 **Enfoque principal:**
-- Análisis Exploratorio de Datos (EDA)  
-- Tendencias de ventas por plataforma y género  
-- Impacto de reseñas y calificaciones en el éxito  
-- Insights para apoyar decisiones de marketing  
+-Análisis Exploratorio de Datos (EDA) para identificar patrones de comportamiento
+-Comparación entre clientes activos y clientes que cancelaron
+-Construcción de modelos de clasificación (Regresión Logística y Random Forest)
+-Evaluación de métricas: accuracy, precision y recall
+-Segmentación de clientes mediante clustering (K-means)
+-Identificación de grupos con mayor riesgo de cancelación
 
 **Herramientas:** Python, Pandas, Matplotlib, Seaborn  
 📁 Carpeta: `video-game-sales-analysis`
