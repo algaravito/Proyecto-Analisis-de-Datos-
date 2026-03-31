@@ -36,25 +36,10 @@ Los proyectos se enfocan en análisis exploratorio (EDA), generación de insight
 
 ## 📂 Proyectos
 
-### 🔹 Análisis de Cancelación de Clientes (Churn) – Model Fitness
-
-**Descripción:**  
-Proyecto de análisis de datos enfocado en identificar los factores que influyen en la cancelación de clientes en un gimnasio. Se realiza análisis exploratorio (EDA), modelado predictivo y segmentación de usuarios para generar estrategias de retención basadas en datos.
-
-**Enfoque principal:**
--Análisis Exploratorio de Datos (EDA) para identificar patrones de comportamiento
--Comparación entre clientes activos y clientes que cancelaron
--Construcción de modelos de clasificación (Regresión Logística y Random Forest)
--Evaluación de métricas: accuracy, precision y recall
--Segmentación de clientes mediante clustering (K-means)
--Identificación de grupos con mayor riesgo de cancelación
-
-**Herramientas:** Python, Pandas, Matplotlib, Seaborn  
-📁 Carpeta: `Análisis de Cancelación de Clientes (Churn) – Model Fitness`
 
 ---
 
-### 🔹 Estrategia de Retención – Model Fitness
+### 🔹  Análisis de Cancelación de Clientes (Churn) – Model Fitness
 
 **Descripción:**  
 Proyecto enfocado en identificar patrones de abandono de clientes (churn) en una cadena de gimnasios mediante el análisis del comportamiento de los usuarios.
@@ -67,7 +52,7 @@ Proyecto enfocado en identificar patrones de abandono de clientes (churn) en una
 - Estrategias de retención basadas en datos  
 
 **Herramientas:** Python, Pandas, NumPy, Matplotlib, Seaborn  
-📁 Carpeta: `model-fitness-investigation`
+📁 Carpeta: ` Análisis de Cancelación de Clientes (Churn) – Model Fitness`
 
 ---
 
