@@ -102,8 +102,8 @@ Evaluación de un experimento A/B en una plataforma de e-commerce para analizar 
 
 ## 📫 Contacto
 
-- 💼 LinkedIn: www.linkedin.com/in/bladimir-andres-hernandez-a1764a2b7  
-- ✉️ Email: bladimir4hernandez@gmail.com  
+- 💼 LinkedIn: www.https://www.linkedin.com/in/leticia-garavito-chaparro-undefined-a14649372/
+- ✉️ Email: 	letyblado11@gmail.com
 
 ---
 
